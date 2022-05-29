@@ -5,6 +5,8 @@ The purpose of this project is to demonstrate how data can be visuaized in the c
 The tool fetches data from an endpoint, converts the data to python dictionary and then plots it.
 
 ## Setup/Installation
+**Warning:** Python, pip and git needs to be installed on your machine and they have to be added to the *PATH* environment variable, to allow execution from Command Line Interface (CLI).
+
 First clone the project to your local machine.
 A script has been written to automatically setup the project.
 Navigate to the project's root directory and execute the command below to setup the project
